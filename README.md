@@ -6,6 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/elvin_ega" target="blank"><img src="https://img.shields.io/twitter/follow/elvin_ega?logo=twitter&style=for-the-badge" alt="elvin_ega" /></a> </p>
 
-- ⚡ Fun fact **Am a Magician*
+- ⚡ Fun fact **Senior Bug Developer*
 
 
