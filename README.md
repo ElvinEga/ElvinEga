@@ -21,10 +21,9 @@ Skills & Tools
 -----------------
 Featured Projects
 
-● Ossium
-  ✦ Free open-source helper to discover, track and contribute to GitHub projects.
-    Trending feed, PR/Issue manager, GSoC ready, realtime checks, no login needed for core features.
-  ✦ Links: https://ossium.live
+● NodaDB
+  ✦ A modern, cross-platform database management tool .A fast, secure, and intuitive desktop SQL client. Built with Rust for native performance and zero compromise. 
+  ✦ Links: [https://github.com/ElvinEga/NodaDB](https://github.com/ElvinEga/NodaDB)
 
 
 --------------------------
