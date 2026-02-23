@@ -22,6 +22,7 @@ Skills & Tools
 Featured Projects
 
 ● NodaDB
+
   ✦ A modern, cross-platform database management tool .A fast, secure, and intuitive desktop SQL client. Built with Rust for native performance and zero compromise. 
   ✦ Links: [https://github.com/ElvinEga/NodaDB](https://github.com/ElvinEga/NodaDB)
 
