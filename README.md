@@ -8,7 +8,7 @@ Currently building useful things for developers and communities.
 Connect With Me
 
 » X / Twitter   → https://x.com/elvin_ega
-» Email         → eproega3@protonmail.com
+» Email         → proega3@protonmail.com
 
 --------------
 Skills & Tools
